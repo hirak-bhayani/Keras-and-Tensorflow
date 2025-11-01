@@ -4,7 +4,9 @@ This repository contains exploratory and applied work using TensorFlow and Keras
 🔍 TensorFlow Data Validation (TFDV) Visualization
 View the full interactive TFDV HTML report below (hosted via GitHub Pages):
 
-👉 Open Visualization | https://hirak-bhayani.github.io/Keras-and-Tensorflow/TensorFlowDataValidationHTML.html
+👉 Open Visualization | 
+1. https://hirak-bhayani.github.io/Keras-and-Tensorflow/TensorFlowDataValidationHTML.html
+2. https://hirak-bhayani.github.io/Keras-and-Tensorflow/TensorFlowDataValidation(Advanced).html
 This visualization provides a schema overview, feature statistics, and anomaly detection for dataset quality checks.
 
 ⚙️ Environment
